@@ -32,13 +32,13 @@ hERG inhibition
 - pandas
 
 ## Execution ##
-** To run the prediction:**
+**To run the prediction:**
 
 $ python model.py --prediction --file_name [filename]
 
 Note: For the prediction step, prepare a .csv file containing SMILES without bioclass (e.g., test_set.csv)
 
-** To run the validation: **
+**To run the validation:**
 
 $ python model.py --validation --file_name [filename]
 
