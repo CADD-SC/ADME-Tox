@@ -1,5 +1,5 @@
 # ADME-Tox prediction models
-ADME/Tox prediction models
+AI based ADME/Tox prediction models for early stage drug screening
 
 ## Introduction: ## 
 
