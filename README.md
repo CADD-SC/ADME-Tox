@@ -47,4 +47,5 @@ Note: For the validation step, prepare a .csv file containing SMILES with biocla
 ## Model Files ## 
 
 To access the prediction model files in .pkl format, please refer to the "Tag --> v2.3.4" tab. Extract the folder "best_models" and place it in the working directory.
+make sure to keep all the required files (best_models, data_preprocessing.py, Scaler, featuers.txt, inputfile.csv)
 
